@@ -11,6 +11,7 @@ public class OdrserviceApplicationTests {
 
 	@Test
 	public void contextLoads() {
+	    System.out.println("Test commit");
 	}
 
 }
